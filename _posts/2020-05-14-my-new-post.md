@@ -1,3 +1,18 @@
+---
+layout: post
+title: My New Post
+subtitle: A Subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [portfolio, test]
+comments: true
+---
+
+
+
+
+
+
 # Large Header
 
 ## Smaller Header
