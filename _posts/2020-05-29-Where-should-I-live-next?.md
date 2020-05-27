@@ -2,11 +2,10 @@
 layout: post
 title: Where should I live next?
 subtitle: Find out the most affordable city
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [portfolio, test]
 
 There are many important factors to consider when job hunting. Glassdoor is a great reference for compensation based on company and geography. Today, we will look at the median annual salary for a Junior Data Scientist role in 10 cities across the country. It seems that San Francisco is the best choice to brag to your friends about your new $109K salary. However, in California this gross income is taxed at 30% leaving you with net $76K. Comparatively, Seattle’s gross income is $96K and taxed at only 22%. These results leave you with the same net income even though you were earning $13K more.
+
+
 
 Taxes are just one important factor to consider. In this next example, I used a cost of living calculator to determine the median home price and 20% down payment in each city. San Francisco tops the graph yet again which makes you wonder. Are wages adjusted enough for the astronomical cost of living? Suppose you wanted to determine which city will allow you to save up the quickest for a down payment on a home.
 
