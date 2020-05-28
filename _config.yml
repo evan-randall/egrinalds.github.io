@@ -12,10 +12,15 @@ author: "Evan Grinalds"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Links:
-    - Training Kit: "https://learn.lambdaschool.com"
+  Lambda School:
+    - Data Science: "https://learn.lambdaschool.com"
     - Lambda School: "https://lambdaschool.com/"
+  About Me: "https://linkedin.com/in/evan-g-6509091a3"
+  Links:
+    - Unit 1 Sprint 1: "https://colab.research.google.com/drive/1dXexADjJzeItYQlvaEXcmZRbNs2OdkMH?usp=sharing"
+    - Unit 1 Sprint 2: "https://colab.research.google.com/drive/1dLmd6Nu6F16c6cEkKG6-hUMcfFVo1e98?usp=sharing"
+    - Unit 1 Sprint 3: "https://colab.research.google.com/drive/1w46V9rpQUtGX5QjdFEnBQPFdrMK7IcrK?usp=sharing"
+   
   Author's home: "https://evangrinalds.github.io"
 
 # --- Logo --- #
@@ -79,7 +84,7 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "2d75fc"
+navbar-col: "#2d75fc"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
