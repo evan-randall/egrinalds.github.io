@@ -12,16 +12,15 @@ author: "Evan Grinalds"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Lambda School:
-    - Data Science: "https://learn.lambdaschool.com"
-    - Lambda School: "https://lambdaschool.com/"
   About Me: "https://linkedin.com/in/evan-g-6509091a3"
   Links:
     - Unit 1 Sprint 1: "https://colab.research.google.com/drive/1dXexADjJzeItYQlvaEXcmZRbNs2OdkMH?usp=sharing"
     - Unit 1 Sprint 2: "https://colab.research.google.com/drive/1dLmd6Nu6F16c6cEkKG6-hUMcfFVo1e98?usp=sharing"
     - Unit 1 Sprint 3: "https://colab.research.google.com/drive/1w46V9rpQUtGX5QjdFEnBQPFdrMK7IcrK?usp=sharing"
    
-  Author's home: "https://evangrinalds.github.io"
+  Lambda School:
+    - Data Science: "https://learn.lambdaschool.com"
+    - Lambda School: "https://lambdaschool.com/"
 
 # --- Logo --- #
 
