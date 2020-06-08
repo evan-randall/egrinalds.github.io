@@ -7,7 +7,7 @@ title: ""
 description: "Portfolio Website"
 
 # Your name to show in the footer
-author: "Evan Grinalds"
+author: "Evan Randall"
 
 # --- List of links in the navigation bar --- #
 
@@ -44,7 +44,7 @@ round-avatar:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "evan-grinalds@lambdastudents.com"
-  github: "egrinalds"
+  github: "evan-randall"
   twitter:
   linkedin: ""
   rss: true
