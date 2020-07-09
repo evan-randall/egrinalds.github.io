@@ -7,7 +7,7 @@ title: ""
 description: "Portfolio Website"
 
 # Your name to show in the footer
-author: "Evan Randall"
+author: "Evan Grinalds"
 
 # --- List of links in the navigation bar --- #
 
@@ -19,7 +19,7 @@ navbar-links:
     - Unit 1 Sprint 3: "https://colab.research.google.com/drive/1w46V9rpQUtGX5QjdFEnBQPFdrMK7IcrK?usp=sharing"
    
   Lambda School:
-    - Data Science: "https://learn.lambdaschool.com"
+    - Data Science: "https://learn.lambdaschool.com/course/ds"
     - Lambda School: "https://lambdaschool.com/"
 
 # --- Logo --- #
