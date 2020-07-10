@@ -20,8 +20,7 @@ navbar-links:
    
   Lambda School:
     - Data Science: "https://learn.lambdaschool.com/course/ds"
-    - Lambda School: "https://lambdaschool.com/"
-
+    
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -45,8 +44,8 @@ round-avatar:
 social-network-links:
   email: "evan-grinalds@lambdastudents.com"
   github: "evan-grinalds"
-  twitter: "https://twitter.com/evangrinalds"
-  linkedin: "www.linkedin.com/in/evan-grinalds-6509091a3"
+  twitter: "evangrinalds"
+  linkedin: "evan-grinalds-6509091a3"
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
