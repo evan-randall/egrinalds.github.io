@@ -40,9 +40,9 @@ round-avatar:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "evan-grinalds@lambdastudents.com"
-  github: "evan-grinalds"
-  twitter: "evangrinalds"
-  linkedin: "in/evan-g-6509091a3"
+  github: evan-grinalds
+  twitter: evangrinalds
+  linkedin: evan-g-6509091a3
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
