@@ -9,7 +9,7 @@ subtitle: Human Rights First
 Human Rights First is an international human rights organization that advocates for asylum seekers. The nonpartisan effort believes that holding the US judiciary system accountable is crucial. Current resources available to asylum seeker advocates are outdated, conflicting or missing data. 
 Our cross-functional team created an automated tool that allows immigration attorneys to contribute data on judicial asylum decisions. This platform will help lawyers identify patterns and predict future outcomes to better serve their clients.
 
-[![Image from Gyazo](https://i.gyazo.com/be81484e33951d3c4292d109e9bf84ff.png)](https://gyazo.com/be81484e33951d3c4292d109e9bf84ff)
+[![Image from Gyazo](https://i.gyazo.com/905f197cff1a96d817f0159164a62651.png)](https://gyazo.com/905f197cff1a96d817f0159164a62651)
 
 ### Execution
 
