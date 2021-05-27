@@ -1,6 +1,5 @@
 ---
-title: Lambda Labs
-subtitle: Human Rights First
+title: Human Rights First
 ---
 
 
