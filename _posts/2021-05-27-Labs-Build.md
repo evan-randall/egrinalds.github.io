@@ -1,5 +1,5 @@
 ---
-title: Lambda Labs Cross-Functional Build
+title: Lambda Labs
 subtitle: Human Rights First
 ---
 
