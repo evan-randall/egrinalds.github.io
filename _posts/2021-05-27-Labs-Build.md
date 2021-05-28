@@ -4,7 +4,7 @@ title: Human Rights First
 
 ### Introduction
 
-My last month of Lambda School was spent gaining real world experience on a cross-functional team of data scientists, web developers, product managers and external stakeholders. Our objective was to create a website for Human Rights First (HRF) to advocate for asylum seekers. The international human rights organization is nonpartisan and believes that holding the US judiciary system accountable is crucial. The platform enables immigration attorneys to contribute data for judicial asylum decisions. Then the data helps identify patterns to predict future outcomes so lawyers can better serve their clients. 
+My last month of Lambda School was spent gaining real world experience on a cross-functional team of data scientists, web developers, product managers and external stakeholders. Our objective was to create a website for [Human Rights First (HRF)](https://www.humanrightsfirst.org/asylum) to advocate for asylum seekers. The international human rights organization is nonpartisan and believes that holding the US judiciary system accountable is crucial. The platform enables immigration attorneys to contribute data for judicial asylum decisions. Then the data helps identify patterns to predict future outcomes so lawyers can better serve their clients. 
 
 [![Image from Gyazo](https://i.gyazo.com/905f197cff1a96d817f0159164a62651.png)](https://gyazo.com/905f197cff1a96d817f0159164a62651)
 
