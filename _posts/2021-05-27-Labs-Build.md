@@ -26,8 +26,6 @@ In order to recognize outcome trends, the data scientists had to identify key fe
 The user story could be completed in 6 months because of the planning, coding and debugging involved. The product has already been in production for 5 months so a majority of the planning and coding is complete. The existing code base had implemented the template, optical character recognition (OCR) and natural language processing (NLP) functionality. The last month would be spent debugging and collaborating with the stakeholders, web developers and existing user feedback.
 
 
-[![Image from Gyazo](https://i.gyazo.com/9140848931b1b7d3e536670496aa638d.png)](https://gyazo.com/9140848931b1b7d3e536670496aa638d)
-
 ### Processes
 
 The complexity of using multiple languages and architectures in the recent Labs project required us to use Docker. This service simplified our workflow by sorting the software into packages called containers. Containers were then isolated and bundled their libraries and dependencies. A technical decision I made was to update the dependencies in the requirements.txt file because Docker wouldn’t install. The error was caused when I tried using spaCy’s outdated en-core-web-sm library. After upgrading to version 3.0.0, Docker was able to run. I advised the decision with my technical lead to ensure the change wouldn’t affect the team.
