@@ -11,14 +11,15 @@ Human Rights First is an international human rights organization that advocates 
 
 ### Planning
 
-In order to recognize outcome trends, the data scientists had to identify key features. My contribution was to create a case type field identifying what asylum cases had been appealed. I broke down the following user story into specific tasks. 
+In order to recognize outcome trends, the data scientists had to identify key features. My contribution was to create a case type field identifying what asylum cases had been appealed. I broke down the following user story into specific tasks.
+
 “As a user, I can determine if the asylum case was initial or appellate.”
 
-Design an upload template for file to be scanned as pdf
-Convert the pdf into an image
-Implement Pytesseract for optical character recognition (OCR)
-Use natural language processing (NLP) to search for keywords like panel members or judges
-Create visualization to quantify the rate of cases getting appealed
+1. Design an upload template for file to be scanned as pdf
+2. Convert the pdf into an image
+3. Implement Pytesseract for optical character recognition (OCR)
+4. Use natural language processing (NLP) to search for keywords like panel members or judges
+5. Create visualization to quantify the rate of cases getting appealed
 
 ### Execution
 
