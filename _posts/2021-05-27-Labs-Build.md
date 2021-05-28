@@ -2,12 +2,11 @@
 title: Human Rights First
 ---
 
+[![Image from Gyazo](https://i.gyazo.com/905f197cff1a96d817f0159164a62651.png)](https://gyazo.com/905f197cff1a96d817f0159164a62651)
 
 ### Ideation
 
 Human Rights First is an international human rights organization that advocates for asylum seekers. The nonpartisan effort believes that holding the US judiciary system accountable is crucial. Our cross-functional team included a product manager, web developers and data scientists. We created an automated tool that allows immigration attorneys to contribute data on judicial asylum decisions. This platform will help lawyers identify patterns and predict future outcomes to better serve their clients.
-
-[![Image from Gyazo](https://i.gyazo.com/905f197cff1a96d817f0159164a62651.png)](https://gyazo.com/905f197cff1a96d817f0159164a62651)
 
 ### Planning
 
