@@ -1,10 +1,10 @@
 ---
-title: Family Promise Service Tracker
+title: Writing Code That Matters
 ---
 
 [![Image from Gyazo](https://i.gyazo.com/35eff39b0ca2c7bdccd1a3205f77569b.png)](https://gyazo.com/35eff39b0ca2c7bdccd1a3205f77569b)
 
-### Writing Code That Matters
+### Preface
 
 My last month of Lambda School was spent gaining real world experience on a cross-functional team of front and backend developers, data scientists and product managers. Our objective was to create a website for the local non-profit [Family Promise](https://www.familypromiseofspokane.org/). The executive director and case managers needed a way to track and visualize the services they provided. These actionable insights will help the organization apply for more grants and funding.
 
@@ -25,7 +25,7 @@ I paired up with three data scientists to create this functionality into the fol
 
 The process of breaking down this user story started with the back-end developers. We needed a database to track all the services provided on a daily basis. Next, the data scientists used a SQL query to create the feature. Then, the front-end developers implemented the visualization for the user interface. The main user of this product was going to be out in the field on a tablet. We needed to show the information they wanted in a concise and clear manner.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~egrinalds/64.embed"></iframe>
+<iframe width="900" height="500" frameborder="0" scrolling="no" src="//plotly.com/~egrinalds/64.embed"></iframe>
 
 Our team used a service called Whimsical to design the architecture for our cross-functional build. This laid the framework for the front and back-end developers and data scientists. One technical challenge we faced was deploying our Fast API endpoints on AWS to the backend Node server. The data had to be returned as a JSON object. If even one developer on the team didn’t update the dependencies then we couldn’t ship the product. We overcame this challenge by working closely with our technical lead. 
 
