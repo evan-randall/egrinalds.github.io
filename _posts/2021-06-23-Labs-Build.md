@@ -22,9 +22,9 @@ I paired up with three data scientists to create this functionality into the fol
 
 “As a user, I can see the density of services in a specific area”
 
-The process of breaking down this user story started with the back-end developers. We needed a database to track all the services provided on a daily basis. Next, I facilitated communication to ensure the API endpoints were integrated properly. Then, the front-end developers implemented the visualization for the user interface. Last, I reviewed pull requests to prevent merge conflicts on our Github repository. 
-
 <iframe width="900" height="500" frameborder="0" scrolling="no" src="//plotly.com/~egrinalds/64.embed"></iframe>
+
+The process of breaking down this user story started with the back-end developers. We needed a database to track all the services provided on a daily basis. Next, I facilitated communication to ensure the API endpoints were integrated properly. Then, the front-end developers implemented the visualization for the user interface. Last, I reviewed pull requests to prevent merge conflicts on our Github repository. 
 
 The following architecture laid the framework between the three disciplines. The hardest part was making sure every developer had an equal amount of work. The inherent nature of agile development caused the tasks from breaking down user stories to be uneven. A specific technical challenge our team faced was deploying our API to AWS. We had only used Heroku before so the environment variables were different. We overcame this challenge by working closely with our technical project lead. 
 
