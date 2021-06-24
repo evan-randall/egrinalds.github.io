@@ -13,7 +13,7 @@ My last month of Lambda School was spent gaining real world experience on a cros
 Family Promise helps local communities coordinate their compassion to address the root causes of family homelessness. They tap existing local resources to empower families towards economic stability. Families come to them in crisis; they help them rebuild their lives with new skills and ongoing support. They address the issue holistically, providing prevention services before families reach crisis, shelter and case management when they come homeless, and stabilization programs once they have secured housing to ensure they remain independent.
 
 
-Initially, I had some concerns over how sensitive user data was going to be handled. Cloud security is important for the protection of hosted information. A certain amount of confidence is needed when relying on a third-party vendor. Even small gaps in security coverage can put everything at risk. To mitigate these inherent risks, we chose a database service called Elephant SQL. The company uses short-lived signed SSH keys and two-factor authentication on every cloud platform (such as AWS and Heroku).
+Initially, I had some concerns over how sensitive user data was going to be handled. Cloud security is important for the protection of hosted information. A certain amount of confidence is needed when relying on a third-party vendor. Even small gaps in security coverage can put everything at risk. To mitigate these inherent risks, we chose a database service called [Elephant SQL](https://www.elephantsql.com/). The company uses short-lived signed SSH keys and two-factor authentication on every cloud platform (such as AWS and Heroku).
 
 ### If You Build It They Will Come
 
