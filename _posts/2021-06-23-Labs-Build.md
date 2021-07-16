@@ -40,4 +40,4 @@ One future feature that could be displayed on the analytics dashboard is the cos
 
 My main take away from the Labs experience was that agile product development is a team sport. By the end of the month, we had four data scientists and 12 web developers working together! One challenge during the delivery process I discovered was the concept of “scope creep”. This translates to a feature taking longer than expected to complete. The solution was to under promise and over deliver. The time management skills I learned this past month will help further my career goals as a Data Scientist. 
 
-[Github Repository](https://github.com/Lambda-School-Labs/human-rights-first-asylum-ds-a)
+[Github Repository](https://github.com/Lambda-School-Labs/family-promise-service-tracker-ds-a)
